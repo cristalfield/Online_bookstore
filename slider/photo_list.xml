@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+
+	<config 
+		auto_play="true" 
+		auto_play_duration="2.4" 
+		grid_row="3" 
+		grid_column="6" 
+		tween_duration="0.64" 
+		tween_delay="0.015"
+		stylesheet="../css/slider_style.css"
+		bar_status="1">
+	</config>
+	
+	<photo>
+		<filename>../images/slider/photo_440x220_01.jpg</filename>
+		<description><![CDATA[<p class="subtitle">Compitative</p><p>The largest Bookstore with Encryption security.It provides with end to end protection.</p>]]></description>
+		<transition flow="in" direction="right" rotation="180"></transition>
+	</photo>
+	
+	<photo>
+		<filename>../images/slider/photo_440x220_02.jpg</filename>
+		<description><![CDATA[<p class="subtitle">Adaptive</p><p>Any type of books anytime.You can enjoy different flavour of story,drama at the same place</p>]]></description>
+		<transition flow="in" direction="up" rotation="-180"></transition>
+	</photo>
+	
+	<photo>
+		<filename>../images/slider/photo_440x220_03.jpg</filename>
+		<description><![CDATA[<p class="subtitle">Original</p><p>All of your requirements are 100% original.Stay connected.</p>]]></description>
+		<transition flow="out" direction="left" rotation="-180"></transition>
+	</photo>
+	
+	<photo>
+		<filename>../images/slider/photo_440x220_04.jpg</filename>
+		<description><![CDATA[<p class="subtitle">Presentable</p><p>All are in presentable way.Your are viewed like all are original books.</p>]]></description>
+		<transition flow="out" direction="up" rotation="90"></transition>
+	</photo>
+	
+	<photo>
+		<filename>../images/slider/photo_440x220_05.jpg</filename>
+		<description><![CDATA[<p class="subtitle">Protective</p><p>We ensure that all of user informations are fully protected with sha1 algorithm.Don't need to worry about that.</p>]]></description>
+		<transition flow="in" direction="down" rotation="180"></transition>
+	</photo>
+	
+	<photo>
+		<filename>../images/slider/photo_440x220_06.jpg</filename>
+		<description><![CDATA[<p class="subtitle">Compatibility</p><p>World needes compatible website.So this is tottaly compatible with any device in any situation.</p>]]></description>
+		<transition flow="in" direction="center" rotation="-90"></transition>
+	</photo>
+	
+</photos>

@@ -1,0 +1,88 @@
+.search{
+	padding: 7px 10px;
+	border-radius: 14px;
+	background-image: ('../images/srch.png');
+	box-shadow: none;
+	cursor: pointer;
+	background-color: peru;
+	border-spacing: none;
+    border:1px;
+}
+.srch{
+	padding: 7px 25px;
+	border-radius: 10px;
+    border:1px;
+	box-shadow: none;
+	background-color: #BDB76B;
+}
+.but{
+	display: block;
+    width: 115px;
+    height: 35px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 15px;
+    border:none;
+    margin-bottom: 2px;
+    transition: all 0.3s ease 0s;
+}
+.but:hover{
+	opacity: 0.90;
+}
+.butt{
+	display: block;
+    width: 115px;
+    height: 37px;
+    background: darkorange;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 15px;
+    border:none;
+    transition: all 0.3s ease 0s;
+
+}
+.butt:hover{
+	opacity: 0.90;
+}
+.tot{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white; 
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.link{
+	display: block;
+    width: 115px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.bor{
+    border-bottom: 1px solid black;
+}
+.bold{
+    padding: 7px 7px;
+    border-radius: 18px;
+    background-color: peru;
+    text-decoration: none;
+    color: black;
+}
+
